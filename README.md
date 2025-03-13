@@ -6,7 +6,7 @@ Web3 Portfolio Tracker
 
 Welcome to Web3 Portfolio Tracker, my first mini Web3 project! 🎉
 
-This application allows users to track Ethereum wallet balances in ETH using Infura as the RPC provider. Users can fetch their balances in real-time and verify them directly on [Etherscan](https://etherscan.io/)
+This application allows users to track Ethereum wallet balances, both EOAs and smart contracts, in ETH using Infura as the RPC provider. Users can fetch their balances in real-time and verify them directly on [Etherscan](https://etherscan.io/)
 
 🚀 Features
 
